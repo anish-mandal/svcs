@@ -12,9 +12,28 @@ svcs is a very simplified and blazingly fast version control system (inspired by
 - [ ] branch
 - [ ] tag
 - [ ] subcommit
-      _more coming soon..._
 
-## File Structure
+_more coming soon..._
+
+## Try out
+
+Building
+
+```bash
+$ cargo build
+```
+
+Running
+
+```bash
+$ cargo run <commands>
+```
+
+Currently available commands: `init`
+
+## About svcs
+
+#### File Structure
 
 Following shows the file structure svcs will initialize the `.svcs` directory:
 
